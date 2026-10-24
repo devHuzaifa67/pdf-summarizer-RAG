@@ -1,0 +1,30 @@
+```gitignore
+# Virtual environment
+venv/
+.venv/
+
+# Environment variables and API keys
+.env
+.env.*
+
+# Python cache files
+__pycache__/
+*.py[cod]
+
+# IDE settings
+.vscode/
+.idea/
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# Temporary files
+*.tmp
+*.log
+
+# OS files
+.DS_Store
+Thumbs.db
+```
+# PDF documents
+*.pdf
